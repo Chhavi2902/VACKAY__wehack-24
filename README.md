@@ -1,4 +1,4 @@
-# WeHack'24 - VACKAY
+# WeHack'24 - VAYKAY
 
 
 Developed VACKAY to address critical gaps in the digital travel space, including
